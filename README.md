@@ -1,2 +1,2 @@
-PDS1 
-QUINTA FASE DO IFSC GASPAR
+Práticas em Desenvolvimento de Sistemas 2023.2
+IFSC Câmpus Gaspar
